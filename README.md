@@ -12,6 +12,7 @@ the MNIST dataset.
 Language Used
 -------------
 Python
+
 Libraries Used
 --------------
 numpy
